@@ -1,6 +1,5 @@
 ![Header](./your-header-image-name.png)
 ![github-header-image (1)](https://user-images.githubusercontent.com/111010873/209136106-dba5a234-933a-49eb-9d1e-e5233bd8e622.png)
-![github-header-image (1)](https://user-images.githubusercontent.com/111010873/209136106-dba5a234-933a-49eb-9d1e-e5233bd8e622.png)
 
 
 - 🔭 I’m currently working on [Zombie Land](https://discord.gg/7GkYjTmCnb)
